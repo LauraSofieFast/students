@@ -1,22 +1,28 @@
-{ 
-    "memberlist" : [
-    {
-        "firstname" : "Morten",
-        "lastname" : "Bonderup",
-        "age" : 54,
-        "image": "morten.png"
-    },
-    {
-        "firstname" : "Olivia",
-        "lastname" : "Smith",
-        "age" : 27,
-        "image" : "olivia.png"
-    },
-    {
-        "firstname" : "Nina",
-        "lastname" : "Johnson",
-        "age" : 23,
-        "image": "nina.png"
-    }
-]
+{
+    "memberlist": [
+        {
+            "firstname": "Morten",
+            "lastname": "Bonderup",
+            "age": 54,
+            "image": "morten.png"
+        },
+        {
+            "firstname": "Olivia",
+            "lastname": "Smith",
+            "age": 27,
+            "image": "olivia.png"
+        },
+        {
+            "firstname": "Nina",
+            "lastname": "Johnson",
+            "age": 23,
+            "image": "nina.png"
+        },
+        {
+            "firstname": "Freja",
+            "lastname": "Rafn",
+            "age": 22,
+            "image": "olivia.png"
+        }
+    ]
 }
